@@ -1,7 +1,5 @@
 
 
-
-
 # Mark Milian Portfolio
 
 
